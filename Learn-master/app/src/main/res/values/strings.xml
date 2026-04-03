@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Learn</string>
+
+    <string name="user_info_label">Query user information</string>
+    <string name="user_info_query">Start query</string>
+    <string name="user_info_stop_query">Stop query</string>
+    <string name="user_info_input_label">Input nickname/Douyin ID/uid/sec_uid</string>
+    <string name="user_info_input_default">74810581616</string>
+    <string name="user_info_uid">Douyin ID:</string>
+
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="long_press_to_copy">Long press the blue item to copy</string>
+
+    <string name="hot_rank_label">hot rank</string>
+
+    <string name="fans_club_label">Query user fans club</string>
+    <string name="fans_club_input_label">User homepage obtained by "query user information"</string>
+    <string name="fans_club_input_default">https://www.douyin.com/user/MS4wLjABAAAAXcusadpsns9kBnsCcbvD8-Xuv2pFqH4X2rs-P2fnw7U</string>
+
+    <string name="add_live_steamer_label">Manage streamer</string>
+    <string name="add_live_steamer_input_label">for example:\nhttps://www.douyin.com/user/MS4wLjABAAAAXcusadpsns9kBsCcbvD8Xuv2pFqH4X2rs-P2fnw7U\n or \nhttps://v.douyin.com/S1pmMvYbzk/</string>
+    <string name="add_live_steamer_input_tip">Url format is wrong</string>
+
+    <string name="live_people_label">Living info</string>
+
+    <string name="delete_history">Delete historical items</string>
+    <string name="clear_input">Clear input</string>
+    <string name="wait">Please wait…</string>
+    <string name="empty">The response is empty</string>
+    <string name="error">Error.</string>
+    <string name="exit">Press again to exit the app</string>
+
+    <string name="content_description_back">Back</string>
+    <string name="content_description_user_image">User avatar</string>
+    <string name="title_activity_query_fans_club_info">QueryFansClubInfoActivity</string>
+    <string name="title_activity_query_fans_club_state_list">QueryFansClubStateListActivity</string>
+    <string name="title_activity_live_info">LiveInfoActivity</string>
+    <string name="title_activity_query_live_people">QueryLivePeopleActivity</string>
+
+    <string name="import_label">Import</string>
+    <string name="export_label">Export</string>
+    <string name="more_options_label">More options</string>
+    <string name="rename_label">Rename</string>
+    <string name="delete_label">Delete</string>
+    <string name="add_group_label">Add group</string>
+    <string name="new_group_title">New Group</string>
+    <string name="group_name_exists_error">Group name already exists</string>
+    <string name="rename_group_title">Rename Group</string>
+    <string name="delete_group_title">Delete Group</string>
+    <string name="delete_group_confirmation">Are you sure delete this group?</string>
+    <string name="delete_button">Delete</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="group_name_label">Group Name</string>
+    <string name="ok_button">OK</string>
+    <string name="adding_label">Adding…</string>
+    <string name="add_button">Add</string>
+    <string name="success_label">Success</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="add_failed">Add failed</string>
+    <string name="user_not_found">User does not exist</string>
+    <string name="db_file_not_found">Database file not found</string>
+    <string name="export_failed_prefix">Export failed: %1$s</string>
+    <string name="import_failed_prefix">Import failed: %1$s</string>
+    <string name="filter_groups_label">Filter Groups</string>
+    <string name="all_groups_label">All</string>
+    <string name="done_label">Done</string>
+    <string name="background_image_desc">Background Image</string>
+    <string name="avatar_image_desc">Avatar</string>
+    <string name="skin_image_desc">Skin</string>
+    <string name="id_prefix">ID: %1$s</string>
+    <string name="level_prefix">Level: %1$s</string>
+    <string name="level_image_desc">Level</string>
+    <string name="vip_image_desc">Vip</string>
+    <string name="auto_refresh_label">Auto refresh(s)</string>
+    <string name="increase_interval_desc">Increase interval</string>
+    <string name="decrease_interval_desc">Decrease interval</string>
+    <string name="start_at_prefix">Start at:%1$s</string>
+    <string name="user_count_desc">User count</string>
+    <string name="user_count_diff_desc">User count diff</string>
+    <string name="visits_prefix">Visits:%1$s</string>
+    <string name="not_started_label">Not started</string>
+    <string name="add_failed_never_lived">Add failed, This user has never lived</string>
+</resources>
